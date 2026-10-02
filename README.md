@@ -85,6 +85,9 @@ FPS is estimated from the measured inference latency:
 
 FPS = 1000 / latency_ms
 
+<img width="612" height="787" alt="image" src="https://github.com/user-attachments/assets/f8efcf6d-5fa3-4cba-bb81-55da90657bf1" />
+
+
 ## Project Structure
 
 ```text
@@ -97,9 +100,3 @@ Computer_Vision/
 ├── yolo11n.pt
 ├── README.md
 └── venv/
-
-<img width="306" height="394" alt="image" src="https://github.com/user-attachments/assets/2fbb688a-fde2-4966-b10f-4adb9641b809" />
-
-
-
-
