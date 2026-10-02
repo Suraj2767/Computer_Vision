@@ -97,50 +97,7 @@ Q2_Computer_Vision/
 ├── yolo11n.pt
 ├── README.md
 └── venv/
-Installation
 
-Create and activate a virtual environment:
-
-python -m venv venv
-.\venv\Scripts\Activate.ps1
-
-Install required packages:
-
-python -m pip install ultralytics opencv-python
-How to Run
-
-Place the input video in the project directory with the filename:
-
-input.mp4
-
-Run:
-
-python cv_pipeline.py
-
-The program generates:
-
-output_annotated.mp4
-latency.csv
-Output
-
-The annotated video displays:
-
-Person bounding boxes
-Tracking IDs
-Object centroid
-Bounding-box area
-Inference latency
-FPS
-
-The latency.csv file contains:
-
-frame
-latency_ms
-fps
-Result
-
-The pipeline successfully processes the input video and produces an
-annotated output video along with frame-level latency and FPS data.
 
 
 
