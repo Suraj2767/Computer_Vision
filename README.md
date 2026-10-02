@@ -1,4 +1,4 @@
-# Q2 - Computer Vision Pipeline
+# Computer Vision Pipeline
 
 ## Objective
 
@@ -88,7 +88,7 @@ FPS = 1000 / latency_ms
 ## Project Structure
 
 ```text
-Q2_Computer_Vision/
+Computer_Vision/
 │
 ├── cv_pipeline.py
 ├── input.mp4
@@ -98,6 +98,7 @@ Q2_Computer_Vision/
 ├── README.md
 └── venv/
 
+<img width="306" height="394" alt="image" src="https://github.com/user-attachments/assets/2fbb688a-fde2-4966-b10f-4adb9641b809" />
 
 
 
